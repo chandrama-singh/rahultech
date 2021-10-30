@@ -5,7 +5,7 @@ export default function MyNavbar(){
 
 
   return(
-    <Navbar bg="danger" className="text-white" expand="lg" variant="light" >
+    <Navbar bg="success" className="text-white" expand="lg" variant="light" >
   <Container fluid >
     <Navbar.Brand href="#">RahulTech</Navbar.Brand>
     <Navbar.Toggle aria-controls="navbarScroll" />
